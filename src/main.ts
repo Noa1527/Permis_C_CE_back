@@ -14,7 +14,7 @@ async function bootstrap() {
   const configService: ConfigService = app.get(ConfigService);
 
   const clientUrl = new URL(
-    configService.getOrThrow<string>('FRONTEND_URL_DEV'),
+    configService.getOrThrow<string>('FRONTEND_URL'),
   ).origin;
 
   app.use(bodyParser.json({ limit: '200mb' }));

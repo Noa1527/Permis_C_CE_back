@@ -9,7 +9,7 @@ import type { Request, Response, NextFunction } from 'express';
 
 
 async function bootstrap() {
-  setServers(['1.1.1.1', '1.0.0.1']);
+  setServers(['1.1.1.1', '8.8.8.8']);
   const app = await NestFactory.create(AppModule);
   const configService: ConfigService = app.get(ConfigService);
 
@@ -44,7 +44,13 @@ async function bootstrap() {
   });
 
   // app.setGlobalPrefix('api');
-  app.useGlobalPipes(new ValidationPipe());
+  app.useGlobalPipes(new ValidationPipe(
+    {
+      whitelist: true,
+      transform: true,
+      forbidNonWhitelisted: true,
+    }
+  ));
   
   await app.listen(configService.get<number>('PORT') || 8081);
 }

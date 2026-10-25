@@ -1,0 +1,1602 @@
+[
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 1,
+    "question": "Le principal avantage du système de freinage antibloquant est-il de réduire les distances de freinage ?",
+    "reponse": "Non",
+    "explication": "L’ABS aide surtout à conserver la direction pendant un freinage appuyé. Il ne garantit pas une distance d’arrêt plus courte."
+  },
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 2, 
+    "question": "Vous avez interrompu votre conduite pendant 1 h 15 mn. Ce temps peut-il être pris en compte pour le calcul du temps de repos journalier ? :",
+    "reponse": "Non",
+    "explication": "Une interruption de 1 h 15 ne constitue pas, à elle seule, la période réglementaire minimale de repos journalier."
+  },
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 3,
+    "question": "Un conducteur effectuant un transport de matières dangereuses dans un véhicule fourgon doit-il obligatoirement avoir suivi une formation particulière ?",
+    "reponse": "Oui",
+    "explication": "Le transport de certaines matières dangereuses nécessite une formation ADR adaptée au transport effectué."
+  },
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 4,
+    "question": "Votre véhicule (isolé) a un PTAC de 16 t. Sur route prioritaire à double sens, quelle est la vitesse maximale autorisée ?",
+    "reponse": "80 km/h",
+    "explication": "Pour un poids lourd concerné par cette règle, la vitesse maximale retenue sur cette route est de 80 km/h, sous réserve d’une limitation locale inférieure."
+  },
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 5,
+    "question": "Quelle est la charge utile d'un véhicule dont le PTAC est de 19 t et le poids à vide de 7t ?",
+    "reponse": "12 t",
+    "explication": "La charge utile se calcule en retranchant le poids à vide du PTAC : 19 − 7 = 12 tonnes."
+  },
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 6,
+    "question": "La lettre de voiture doit détailler la nature des marchandises transportées. Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "La lettre de voiture décrit notamment les marchandises afin de documenter le transport."
+  },
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 7,
+    "question": "Le châssis d'un véhicule lourd est principalement constitué de longerons et de … ?",
+    "reponse": "Traverses",
+    "explication": "Les traverses relient les longerons et contribuent à la rigidité du châssis."
+  },
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 8,
+    "question": "Si, dans la même journée, vous conduisez un véhicule avec un chronotachygraphe à disque après avoir conduit un véhicule avec un chronotachygraphe numérique, devez-vous utiliser un disque vierge ?",
+    "reponse": "Oui",
+    "explication": "Quand on passe d’un tachygraphe numérique à un appareil analogique, il faut utiliser un disque approprié pour enregistrer la suite de l’activité."
+  },
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 9,
+    "question": "Ce signal m’indique un arrêt d’autobus. Vrai ou faux ?",
+    "reponse": "Faux",
+    "explication": "Le panneau représenté désigne les autobus ou une voie qui leur est réservée ; ce n’est pas un simple panneau d’arrêt d’autobus."
+  },
+  {
+    "permis": "C",
+    "fiche": 1,
+    "numero": 10,
+    "question": "Un chiffre doublé (ex. : 33) dans le rectangle du haut de la plaque orange placée à l’arrière d’un camion signifie : « Produit de nature à polluer les eaux ». Vrai ou faux ?",
+    "reponse": "Faux",
+    "explication": "Sur une plaque orange ADR, le doublement d’un chiffre renforce la notion de danger ; il ne signifie pas à lui seul une pollution des eaux."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 1,
+    "question": "Vous chargez du sable. Vous voulez connaître la charge maximale autorisée par essieu, vous pouvez la trouver sur la plaque de tare et de surface. Vrai ou faux ?",
+    "reponse": "Faux",
+    "explication": "La plaque de tare et de surface peut indiquer les masses admises, notamment par essieu, pour le véhicule."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 2,
+    "question": "Vous attendez votre tour pour décharger sans connaître le temps d'attente. Sur quel symbole devez-vous positionner le sélecteur d'activité du chronotachygraphe ?",
+    "reponse": "Autres tâches (marteaux)",
+    "explication": "Attendre son tour pour décharger en restant disponible pour le travail relève des autres tâches selon la situation décrite par la fiche."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 3,
+    "question": "Certains éléments de la chaîne cinématique nécessitent d'être vidangés ou … ?",
+    "reponse": "Graissés",
+    "explication": "Certains organes mécaniques doivent recevoir de la graisse en plus des opérations de vidange."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 4,
+    "question": "Vous conduisez un camion neuf de 19 t de PTAC. A quelle vitesse êtes-vous limité en agglomération, sur une portion de route relevée à 70 km/h ?",
+    "reponse": "50 km/h",
+    "explication": "Pour les poids lourds visés par cette question, la limitation demeure de 50 km/h en agglomération même si une portion est relevée à 70 km/h."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 5,
+    "question": "Vous chargez du sable dans un véhicule isolé, quelle est la charge maximale autorisée sur l'essieu le plus chargé du groupe d'essieux moteur ?",
+    "reponse": "11,5 t",
+    "explication": "La réglementation fixe une limite pour l’essieu le plus chargé d’un groupe d’essieux moteur, ici 11,5 tonnes."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 6,
+    "question": "La licence communautaire permet-elle d’effectuer des transports dans toute l’Union européenne ?",
+    "reponse": "Oui",
+    "explication": "La licence communautaire permet de réaliser les transports couverts par cette licence au sein de l’Union européenne, dans les conditions prévues."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 7,
+    "question": "Ce signal concerne-t-il les véhicules affectés aux seuls transports de produits polluants ?",
+    "reponse": "Non",
+    "explication": "Le panneau n’est pas réservé aux seuls véhicules transportant des produits polluants : son champ est plus large."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 8,
+    "question": "Après 3 h de conduite continue, s’arrêter 10 mn sur un parking est-il considéré comme une pause ?",
+    "reponse": "Non",
+    "explication": "Une pause réglementaire de conduite doit respecter sa durée et ses conditions ; dix minutes seules sont insuffisantes."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 9,
+    "question": "Débrancher ou modifier les réglages du limiteur de vitesse peut entraîner une suspension du permis de conduire, même s'il n’y a pas eu d'excès de vitesse constaté. Vrai ou Faux ?",
+    "reponse": "Vrai",
+    "explication": "Toucher au limiteur de vitesse est une infraction distincte d’un excès de vitesse et peut entraîner des sanctions."
+  },
+  {
+    "permis": "C",
+    "fiche": 2,
+    "numero": 10,
+    "question": "Le constat amiable d'accident peut-il constituer une preuve de responsabilité ?",
+    "reponse": "Oui",
+    "explication": "Un constat amiable signé constitue un document pouvant être utilisé comme élément de preuve, sans déterminer automatiquement toutes les responsabilités."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 1,
+    "question": "Quelle est la profondeur minimale (en millimètre - mm) des rainures principales d'un pneumatique de poids lourd ?",
+    "reponse": "1 mm",
+    "explication": "Les rainures principales d’un pneu de poids lourd doivent conserver au moins la profondeur réglementaire indiquée dans cette fiche."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 2,
+    "question": "En règle générale, quelle est la durée minimale normale (non réduite) de repos hebdomadaire pour un conducteur de camions ?",
+    "reponse": "45 h",
+    "explication": "Un repos hebdomadaire normal est d’au moins 45 heures consécutives, contrairement au repos réduit."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 3,
+    "question": "Qu'aspire le moteur diesel lors du premier temps appelé « admission » ?",
+    "reponse": "De l’air",
+    "explication": "Lors de l’admission, un moteur Diesel aspire de l’air ; le carburant est injecté ensuite."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 4,
+    "question": "Vous conduisez un camion neuf de 26 t de PTAC. A quelle vitesse êtes-vous limité sur autoroute ?",
+    "reponse": "90 km/h",
+    "explication": "Sur autoroute, la limite retenue pour ce camion neuf de 26 tonnes est de 90 km/h, sauf signalisation plus restrictive."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 5,
+    "question": "Vous conduisez un camion comportant une caisse bâchée. Quelle peut être sa largeur maximale ?",
+    "reponse": "2,55 m",
+    "explication": "La largeur courante maximale d’un véhicule chargé ou non est de 2,55 mètres, hors exceptions réglementaires."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 6,
+    "question": "Lors d'un contrôle sur route, dois-je présenter un justificatif de l'employeur pour le ou les jour(s) non travaillé(s) ?",
+    "reponse": "Oui",
+    "explication": "Les périodes d’activité et d’inactivité doivent pouvoir être justifiées selon les modalités réglementaires applicables."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 7,
+    "question": "Vous avez perdu votre “carte conducteur”, pouvez-vous conduire en utilisant la carte “entreprise” que possède votre employeur ?",
+    "reponse": "Non",
+    "explication": "La carte entreprise sert à la gestion des données ; elle ne remplace jamais la carte personnelle du conducteur."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 8,
+    "question": "Par temps sec, ce signal me concerne-t-il ?",
+    "reponse": "Oui",
+    "explication": "Le panneau d’accotement meuble avertit d’un danger qui reste pertinent par temps sec."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 9,
+    "question": "En France, à partir de quelle quantité d'alcool pur par litre de sang un conducteur de camion encourt-il une sanction ?",
+    "reponse": "0,50 g/l",
+    "explication": "La fiche retient le seuil général de 0,50 gramme d’alcool par litre de sang pour ce conducteur."
+  },
+  {
+    "permis": "C",
+    "fiche": 3,
+    "numero": 10,
+    "question": "Dans le transport routier, c'est pendant le travail, hors conduite, que l’on dénombre le plus fort taux d'accidents chez les conducteurs ?",
+    "reponse": "Oui",
+    "explication": "Les activités de manutention, chargement et déchargement exposent à de nombreux accidents du travail."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 1,
+    "question": "Au-delà de quel PTAC un extincteur à poudre de 6 kg minimum, placé à l’extérieur, doit-il équiper un camion neuf ?",
+    "reponse": "7,5 t",
+    "explication": "La fiche prévoit un extincteur extérieur d’au moins 6 kg pour les camions dépassant ce seuil de PTAC."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 2,
+    "question": "Le turbocompresseur a pour fonction de diminuer l’air admis dans les cylindres. Vrai ou faux ?",
+    "reponse": "Non",
+    "explication": "Le turbo comprime davantage d’air vers les cylindres ; il n’a pas pour fonction d’en diminuer la quantité."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 3,
+    "question": "Ce signal interdit-il de dépasser les seuls véhicules dont le PTAC dépasse 3,5 tonnes ?",
+    "reponse": "Non",
+    "explication": "L’interdiction de dépassement figurant sur ce panneau ne se limite pas à la seule catégorie décrite dans la question."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 4,
+    "question": "Vous conduisez un camion neuf de 19 t de PTAC. À quelle vitesse êtes-vous limité sur route non prioritaire ?",
+    "reponse": "80 km/h",
+    "explication": "Sur la route non prioritaire considérée, la limite retenue pour ce camion est de 80 km/h."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 5,
+    "question": "Quelle est la longueur maximale d’un camion isolé à 2 essieux ?",
+    "reponse": "12 m",
+    "explication": "Un camion isolé, même avec deux essieux, ne peut pas dépasser la longueur réglementaire de 12 mètres dans le cas général."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 6,
+    "question": "Lors d’un contrôle des temps de conduite et de repos sur la route, en plus de la journée en cours, sur quelle période devez-vous pouvoir présenter les données ?",
+    "reponse": "28 jours",
+    "explication": "Le PDF indique 28 jours, mais depuis le 31 décembre 2024 les contrôles concernés couvrent le jour en cours et les 56 jours précédents. La réponse d’origine est obsolète."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 7,
+    "question": "Le temps de conduite pour venir à l’entreprise, le matin, avec votre véhicule personnel doit-il être ajouté au temps de conduite de votre véhicule lourd ?",
+    "reponse": "Oui",
+    "explication": "Selon la correction du document, ce temps doit être pris en compte dans le cadre de la question ; le traitement précis des déplacements domicile–travail dépend des circonstances et du règlement applicable."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 8,
+    "question": "Au bout de combien de jours, au maximum, l’entreprise doit-elle « télécharger » les données de votre carte conducteur ?",
+    "reponse": "28 jours",
+    "explication": "La fiche indique un téléchargement de la carte conducteur au maximum tous les 28 jours ; cette fréquence est distincte de la durée d’historique à présenter lors d’un contrôle."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 9,
+    "question": "Je possède les catégories B, C et CE. Conduire ma voiture personnelle après avoir pris de la drogue peut entraîner la perte de la catégorie B de mon permis de conduire uniquement. Vrai ou faux ?",
+    "reponse": "Oui",
+    "explication": "Une perte de validité du permis pour solde de points nul affecte l’ensemble des catégories détenues, y compris celles du groupe lourd."
+  },
+  {
+    "permis": "C",
+    "fiche": 4,
+    "numero": 10,
+    "question": "En cas d’accident, les données du chronotachygraphe numérique peuvent-elles servir de preuve devant un tribunal ?",
+    "reponse": "Oui",
+    "explication": "Les enregistrements du tachygraphe peuvent contribuer à établir les faits lors d’une enquête ou d’une procédure."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 1,
+    "question": "Où doit se trouver l’extincteur obligatoire sur un véhicule isolé neuf de transport de marchandises de plus de 7,5 t: à l'intérieur ou à l'extérieur ?",
+    "reponse": "À l’extérieur",
+    "explication": "Selon cette fiche, l’extincteur obligatoire de ce véhicule neuf doit être installé à l’extérieur et rester accessible."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 2,
+    "question": "Votre véhicule est équipé d’un chronotachygraphe numérique. Vous avez perdu votre carte « conducteur » : combien de jours, au maximum, pouvez-vous conduire sans carte ?",
+    "reponse": "15 jours",
+    "explication": "En cas de perte de la carte conducteur, une conduite temporaire est admise sous conditions strictes et avec justificatifs."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 3,
+    "question": "Le circuit d'alimentation d'un moteur diesel se compose, entre autres éléments, de deux pompes : l'une dite pompe d'injection haute pression, l'autre dite pompe … ?",
+    "reponse": "D’alimentation",
+    "explication": "La pompe d’alimentation achemine le carburant vers le système d’injection à haute pression."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 4,
+    "question": "Vous conduisez un camion de plus de 7,5 t de PTAC. Quand finit l'interdiction de circulation en fin de semaine ?",
+    "reponse": "Dimanche à 22 h",
+    "explication": "L’interdiction générale de circulation de fin de semaine s’achève le dimanche à 22 heures, sauf exceptions."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 5,
+    "question": "En règle générale, quel est le PTAC maximal d'un véhicule isolé comportant 2 essieux ?",
+    "reponse": "19 t",
+    "explication": "Un véhicule isolé à deux essieux est limité à 19 tonnes de PTAC dans le cas général présenté."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 6,
+    "question": "Dans le cadre d'un transport public, peut-il y avoir une lettre de voiture (avec état récapitulatif) dans le véhicule pour plusieurs voyages ?",
+    "reponse": "Oui",
+    "explication": "Un état récapitulatif permet de regrouper plusieurs opérations de transport lorsque les conditions prévues sont respectées."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 7,
+    "question": "En agglomération, ce signal est-il implanté 50 mètres avant le carrefour à sens giratoire ?",
+    "reponse": "Oui",
+    "explication": "En agglomération, les distances d’implantation des panneaux de danger ne suivent pas systématiquement la valeur proposée dans la question."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 8,
+    "question": "En double équipage, le temps passé sur la couchette d'un véhicule en circulation, est-il considéré comme repos journalier ?",
+    "reponse": "Non",
+    "explication": "Une couchette dans un véhicule en mouvement ne remplit pas automatiquement toutes les conditions d’un repos journalier."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 9,
+    "question": "Le non-respect des limitations de tonnage pour le passage sur les ponts peut-il entraîner une suspension du permis de conduire ?",
+    "reponse": "Oui",
+    "explication": "Le non-respect des restrictions de tonnage sur les ouvrages d’art peut entraîner des sanctions importantes."
+  },
+  {
+    "permis": "C",
+    "fiche": 5,
+    "numero": 10,
+    "question": "Sur autoroute, en cas d'incident, pour appeler les secours, vaut-il mieux utiliser une borne d'appel ou son téléphone portable ?",
+    "reponse": "La borne d’appel",
+    "explication": "Une borne d’appel autoroutière permet de localiser précisément l’incident et d’alerter les services adaptés."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 1,
+    "question": "Quel type d'extincteur faut-il éviter d'utiliser pour éteindre les flammes d'un feu d’hydrocarbure ?",
+    "reponse": "Un extincteur à eau",
+    "explication": "L’eau seule peut répandre un hydrocarbure enflammé ; on utilise un agent extincteur adapté aux feux de liquides inflammables."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 2,
+    "question": "Le conducteur doit pouvoir présenter les preuves de son activité pour la journée en cours et pour les … jours précédents ?",
+    "reponse": "28 jours",
+    "explication": "Le PDF indique 28 jours, mais depuis le 31 décembre 2024 le conducteur doit pouvoir présenter les enregistrements du jour et des 56 jours précédents lors des contrôles concernés. Cette réponse historique est à actualiser."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 3,
+    "question": "Les filtres à carburant ou filtres principaux sont situés entre la pompe d’alimentation et la pompe d’injection haute pression. Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "Les filtres protègent le système d’injection en retenant les impuretés avant l’alimentation en haute pression."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 4,
+    "question": "Hors agglomération, sur une route à double sens, vous suivez un camion à 70 km/h. Quel intervalle de sécurité minimum devez-vous respecter ?",
+    "reponse": "50 m",
+    "explication": "À 70 km/h, deux secondes correspondent à environ 39 mètres, mais la fiche applique ici la distance minimale spécifique de 50 mètres entre poids lourds concernés."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 5,
+    "question": "Dans la définition du poids à vide, les différents réservoirs sont-ils remplis ?",
+    "reponse": "Oui",
+    "explication": "Le poids à vide comprend les fluides et les réservoirs selon la définition réglementaire utilisée."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 6,
+    "question": "Dans le cadre du transport public, peut-il y avoir une seule lettre de voiture (avec état récapitulatif) dans le véhicule pour un transport comportant plusieurs destinataires dans la même journée ?",
+    "reponse": "Oui",
+    "explication": "Une lettre de voiture accompagnée de son récapitulatif peut couvrir plusieurs transports dans les conditions autorisées."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 7,
+    "question": "Hors agglomération, ce signal est-il implanté 100 mètres avant le carrefour à sens giratoire ?",
+    "reponse": "Non",
+    "explication": "Hors agglomération, l’implantation d’un panneau de danger n’est pas obligatoirement à 100 mètres du giratoire."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 8,
+    "question": "La réglementation sociale européenne s’applique-t-elle à un conducteur non salarié propriétaire de son véhicule ?",
+    "reponse": "Oui",
+    "explication": "La réglementation sociale relative aux temps de conduite et de repos peut s’appliquer aussi au conducteur indépendant."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 9,
+    "question": "Quel symbole devez-vous afficher sur l’écran du chronotachygraphe numérique lorsque vous nettoyez votre véhicule ?",
+    "reponse": "Autres tâches (marteaux)",
+    "explication": "Nettoyer son véhicule correspond à du travail et se note sous le symbole des autres tâches."
+  },
+  {
+    "permis": "C",
+    "fiche": 6,
+    "numero": 10,
+    "question": "Que signifie une plaque de couleur orange, comportant 2 rectangles sans inscription, placée à l'arrière d’un camion ?",
+    "reponse": "Transport de matières dangereuses",
+    "explication": "Les panneaux orange ADR sans numéro signalent, dans ce contexte, un transport de matières dangereuses."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 1,
+    "question": "En cas de panne du chronotachygraphe, le délai maximal de remise en état, à compter de la panne, est fixé à … ?",
+    "reponse": "1 semaine (7 jours)",
+    "explication": "La fiche retient un délai maximal d’une semaine pour faire réparer le chronotachygraphe défectueux, dans les conditions concernées."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 2,
+    "question": "Quand le repos journalier est fractionné, quelle doit être la durée minimale totale de ce repos ?",
+    "reponse": "12 h",
+    "explication": "Le repos journalier fractionné normal totalise au moins 12 heures, réparties conformément aux règles."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 3,
+    "question": "L'embrayage est un organe mécanique nécessaire au passage des vitesses sur les seules boîtes mécaniques ?",
+    "reponse": "Non",
+    "explication": "Les boîtes automatisées peuvent aussi intégrer des dispositifs d’embrayage ; l’affirmation est donc fausse."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 4,
+    "question": "Votre camion, en charge, transporte des denrées périssables, avez-vous le droit de continuer votre trajet le samedi après 22h ?",
+    "reponse": "Oui",
+    "explication": "Certaines dérogations à l’interdiction de circulation concernent les transports de denrées périssables."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 5,
+    "question": "Quelle est la longueur maximale d'un camion isolé à 3 essieux ?",
+    "reponse": "12 m",
+    "explication": "La longueur maximale de principe d’un camion isolé reste 12 mètres, même lorsqu’il a trois essieux."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 6,
+    "question": "Si le véhicule que je conduis est soumis à la taxe à l’essieu, lors d’un contrôle routier, faut-il présenter l’original ou la photocopie de l’attestation de paiement ?",
+    "reponse": "L’original",
+    "explication": "Dans le cas décrit, la correction exige l’original de l’attestation et non une simple photocopie."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 7,
+    "question": "Ce signal interdit-il l'accès aux véhicules mesurant plus de 3,50 m de hauteur, chargement compris ?",
+    "reponse": "Oui",
+    "explication": "Un panneau d’interdiction avec « 3,5 m » vise les véhicules dépassant cette hauteur totale, chargement compris."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 8,
+    "question": "Le conducteur peut-il bâcher ou débâcher son véhicule pendant une pause ?",
+    "reponse": "Non",
+    "explication": "Bâcher ou débâcher le camion est un travail ; ce n’est pas une pause consacrée au repos."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 9,
+    "question": "Quelle est la catégorie du permis exigée pour conduire un tracteur « en solo » de 10 t de PTAC et de 38 t de PTRA quand il circule non attelé d’une semi-remorque ?",
+    "reponse": "C ou permis C",
+    "explication": "Un tracteur routier circulant sans semi-remorque peut être conduit avec le permis C adapté à son PTAC."
+  },
+  {
+    "permis": "C",
+    "fiche": 7,
+    "numero": 10,
+    "question": "Dans le transport, les accidents avec blessures du chauffeur sont plus nombreux en circulation que hors circulation. Vrai ou Faux ?",
+    "reponse": "Faux",
+    "explication": "La fiche souligne la fréquence des accidents lors des activités professionnelles hors circulation."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 1,
+    "question": "En règle générale, existe-t-il une commande indépendante de frein de secours à l'intérieur des véhicules lourds neufs ?",
+    "reponse": "Non",
+    "explication": "Les systèmes de freinage sont intégrés ; un frein de secours ne possède pas nécessairement une commande indépendante."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 2,
+    "question": "La marche arrière sert à inverser le sens de rotation de l'arbre de transmission ?",
+    "reponse": "Oui",
+    "explication": "La marche arrière inverse le sens transmis aux roues motrices pour faire reculer le véhicule."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 3,
+    "question": "Circuler avec un seul pneu lisse ou détérioré peut entraîner l‘immobilisation du véhicule jusqu'à son remplacement. Vrai ou Faux ?",
+    "reponse": "Vrai",
+    "explication": "Un pneumatique dangereux peut justifier l’immobilisation du camion jusqu’à sa remise en état."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 4,
+    "question": "Au-dessous de quelle hauteur libre d'un pont celle-ci sera-t-elle signalée ?",
+    "reponse": "4,30 m",
+    "explication": "La fiche donne un seuil de 4,30 mètres pour la signalisation de la hauteur libre. Il faut aussi toujours tenir compte de la signalisation et du gabarit réellement disponible."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 5,
+    "question": "En règle générale, le chargement peut-il dépasser l'aplomb avant du véhicule ?",
+    "reponse": "Non",
+    "explication": "Dans le cas général, un chargement ne peut pas dépasser à l’avant du véhicule."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 6,
+    "question": "Suite au contrôle technique périodique, lorsque le véhicule est refusé sans interdiction de circuler, dans quel délai maximum la contre-visite doit-elle être effectuée pour éviter une visite technique complète ?",
+    "reponse": "1 mois",
+    "explication": "Après un contrôle technique défavorable sans interdiction immédiate, la contre-visite doit être effectuée dans le délai réglementaire indiqué par la fiche."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 7,
+    "question": "Quel symbole devez-vous afficher sur l'écran du chronotachygraphe numérique lorsque vous partez déjeuner ?",
+    "reponse": "Pause ou repos",
+    "explication": "Le déjeuner, sans activité professionnelle, se note en pause ou en repos sur le tachygraphe."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 8,
+    "question": "Quelle est la durée maximale autorisée de conduite continue pour un conducteur de camion ?",
+    "reponse": "4 h 30",
+    "explication": "Après 4 heures 30 de conduite cumulée, une pause réglementaire est requise, sauf début d’un repos."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 9,
+    "question": "Le poids indiqué dans ce signal concerne-t-il le poids maximal autorisé que peut supporter l'essieu ?",
+    "reponse": "Oui",
+    "explication": "Le panneau représente une limitation de charge par essieu, et non la masse totale du camion."
+  },
+  {
+    "permis": "C",
+    "fiche": 8,
+    "numero": 10,
+    "question": "Pour diminuer les risques d’accident, lors de la montée ou de la descente d’un camion, de combien de points d’appui le conducteur doit-il se servir ?",
+    "reponse": "3",
+    "explication": "Trois points d’appui limitent les risques de chute lors de la montée ou de la descente de cabine."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 1,
+    "question": "En règle générale, à quelle vitesse doit être réglé le limiteur de vitesse d’un camion neuf ?",
+    "reponse": "90 km/h",
+    "explication": "Le limiteur de vitesse des poids lourds visés doit être réglé à 90 km/h dans le cadre de cette question."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 2,
+    "question": "Un pont court permet d'obtenir un couple plus important et une vitesse du véhicule plus faible. Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "Un pont court permet de conserver davantage de couple aux roues, avec une vitesse moindre à régime moteur égal."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 3,
+    "question": "Dans une entreprise, le chargement est effectué par un manutentionnaire. Une fois terminé, vous appartient-il d'effectuer le contrôle de l’arrimage avant de démarrer ?",
+    "reponse": "Oui",
+    "explication": "Le conducteur doit signaler une anomalie de chargement à son entreprise, même lorsque la manutention a été réalisée par un tiers."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 4,
+    "question": "En agglomération, vous suivez un camion. Quel intervalle de sécurité minimum devez-vous respecter ?",
+    "reponse": "Distance parcourue en 2 secondes",
+    "explication": "Une distance exprimée en deux secondes tient compte de la vitesse : on laisse passer un repère, puis on compte deux secondes."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 5,
+    "question": "Le poids réel d'un véhicule peut-il être égal à son PTAC ?",
+    "reponse": "Oui",
+    "explication": "Le poids réel peut atteindre le PTAC, mais il ne doit jamais le dépasser."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 6,
+    "question": "Suite au contrôle technique périodique, quelle lettre figure sur le certificat d'immatriculation lorsque le véhicule est refusé sans interdiction de circuler ?",
+    "reponse": "S ou lettre S",
+    "explication": "La correction du PDF indique la lettre S liée au résultat de la visite technique ; ce point doit être revérifié selon le document administratif actuel."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 7,
+    "question": "Quel symbole devez-vous afficher © sur l'écran du chronotachygraphe lors des vérifications du véhicule avant le départ ?",
+    "reponse": "Autres tâches (marteaux)",
+    "explication": "Le téléchargement et les opérations liées au tachygraphe sont des tâches professionnelles, pas du repos."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 8,
+    "question": "Un premier arrêt de 15 mn sur un parking peut-il être considéré comme une pause ?",
+    "reponse": "Oui",
+    "explication": "Un arrêt de 15 minutes peut être une pause fractionnée dans certaines conditions réglementaires."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 9,
+    "question": "Mon véhicule a un poids à vide de 5 tonnes (70) et un PTAC de 12 tonnes. Ce signal me concerne-t-il ? Csa)",
+    "reponse": "Oui",
+    "explication": "Le panneau représente une limitation de vitesse pour le véhicule décrit ; il faut aussi respecter les limitations propres aux poids lourds."
+  },
+  {
+    "permis": "C",
+    "fiche": 9,
+    "numero": 10,
+    "question": "Le nombre 33 dans le rectangle du haut de la plaque orange placée à l'arrière d’un camion signifie : “produit très inflammable”. Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "Le nombre supérieur de la plaque ADR renseigne le danger ; il ne désigne pas à lui seul un produit simplement inflammable."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 1,
+    "question": "Est-il autorisé de monter des pneus de types différents sur un même essieu, roues jumelées ou non (en dehors de la roue de secours), sur un véhicule récent ?",
+    "reponse": "Non",
+    "explication": "La fiche refuse la proposition : les règles d’équipement en roue de secours dépendent des roues et du véhicule concernés."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 2,
+    "question": "Le mécanisme de direction comprend une « bielle pendante ». Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "Une biellette pendante appartient au dispositif de direction."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 3,
+    "question": "Sur cette chaussée la hauteur des arbres est susceptible /\\ d'être inférieure à 4,30 m. Vrai ou faux ? ARBRES",
+    "reponse": "Vrai",
+    "explication": "Un panneau de hauteur limitée avertit qu’une hauteur supérieure à celle indiquée peut rencontrer un obstacle."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 4,
+    "question": "En général, un véhicule tracteur en solo est-il soumis aux mêmes limitations de vitesse que s'il est attelé ?",
+    "reponse": "Oui",
+    "explication": "Un tracteur routier en solo conserve des règles de vitesse qui ne sont pas forcément identiques à celles de l’ensemble attelé."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 5,
+    "question": "En règle générale, quel est le PTAC maximal d'un véhicule isolé de 3 essieux ?",
+    "reponse": "26 t",
+    "explication": "Dans la configuration retenue, le PTAC maximal indiqué pour ce camion de trois essieux est de 26 tonnes."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 6,
+    "question": "Vous effectuez un transport sous convention T.I.R. Les portes du véhicule doivent-elles être scellées ?",
+    "reponse": "Oui",
+    "explication": "Lors d’un transport TIR, les portes et compartiments soumis aux formalités douanières doivent respecter les dispositifs de scellement prévus."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 7,
+    "question": "Quelle est la durée de validité de votre carte “conducteur” ?",
+    "reponse": "5 ans",
+    "explication": "La carte conducteur a une durée de validité déterminée ; la fiche donne cinq ans."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 8,
+    "question": "Si vous avez à imprimer un ticket à partir d'un chronotachygraphe numérique, devez-vous inscrire tre nom sur le ticket, si votre carte “conducteur” est insérée dans l'appareil au moment de l'impression?",
+    "reponse": "Non",
+    "explication": "Le numéro d’immatriculation n’est pas systématiquement demandé sur chaque impression de tachygraphe dans le cas décrit."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 9,
+    "question": "Après l’obtention (hors diplômes professionnels) de votre premier permis de conduire du groupe lourd, quelle formation devez-vous effectuer avant de pouvoir conduire un véhicule dans le cadre d’un transport public de marchandises ?",
+    "reponse": "FIMO (Formation initiale minimale obligatoire)",
+    "explication": "La FIMO correspond à une formation initiale de qualification pour les transports professionnels concernés."
+  },
+  {
+    "permis": "C",
+    "fiche": 10,
+    "numero": 10,
+    "question": "En moyenne, il y a plus d'accidents graves impliquant un poids lourd les samedis et veilles de jours fériés que les jours de semaine. Vrai ou Faux ?",
+    "reponse": "Faux",
+    "explication": "La statistique présentée dans l’énoncé n’est pas exacte selon la correction fournie."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 1,
+    "question": "Dans un camion neuf, le conducteur doit-il obligatoirement attacher sa ceinture de sécurité ?",
+    "reponse": "Oui",
+    "explication": "La ceinture de sécurité est obligatoire pour les occupants des places qui en sont équipées."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 2,
+    "question": "Quel type de suspension équipe généralement les véhicules lourds permettant de régler la hauteur du véhicule ?",
+    "reponse": "La suspension pneumatique",
+    "explication": "La suspension pneumatique utilise de l’air pour soutenir et amortir le véhicule."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 3,
+    "question": "Cette limitation de vitesse peut-elle concerner (50) les véhicules autres que les trains routiers, trains doubles et véhicules articulés ?",
+    "reponse": "Oui",
+    "explication": "Le panneau et son panonceau s’appliquent au type de véhicule représenté, selon les indications affichées."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 4,
+    "question": "Sur le périphérique parisien, les camions peuvent circuler à 80 km/h. Vrai ou faux ?",
+    "reponse": "Faux",
+    "explication": "Sur le périphérique parisien, les véhicules lourds doivent respecter leur limite spécifique ; la généralisation à 80 km/h est erronée dans ce cas."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 5,
+    "question": "Quelle est la charge utile d'un véhicule dont le PTAC est de 32 t et le poids à vide de 9 t ?",
+    "reponse": "23 t",
+    "explication": "La charge utile se calcule en soustrayant le poids à vide du PTAC : 32 − 9 = 23 tonnes."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 6,
+    "question": "Quel est le document, lié à l'entreprise, qui doit se trouver dans un véhicule, de plus de 3,5 t de PMA, qui effectue un transport de marchandises pour compte d'autrui ?",
+    "reponse": "Copie conforme de la licence communautaire",
+    "explication": "Une copie conforme de la licence communautaire doit être disponible à bord pour les transports couverts."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 7,
+    "question": "Un conducteur peut-il demander une copie papier des données numériques, liées à son activité, qui sont conservées dans l’entreprise ?",
+    "reponse": "Oui",
+    "explication": "Un conducteur indépendant reste soumis aux obligations de conservation et de présentation des données d’activité applicables."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 8,
+    "question": "Le conducteur d’un véhicule de dépannage, est-il soumis à la réglementation sociale européenne, dans un rayon de 100 km autour de son point d'attache ?",
+    "reponse": "Non",
+    "explication": "Le dépanneur n’est pas automatiquement soumis à toutes les règles sociales européennes dans la zone précisée."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 9,
+    "question": "Avec le permis C, quel est le PTAC maximum de la remorque que vous pouvez atteler derrière votre camion ? L2",
+    "reponse": "750 kg",
+    "explication": "Une remorque dépassant 750 kg de PTAC peut faire intervenir une autre catégorie de permis selon le véhicule tracteur."
+  },
+  {
+    "permis": "C",
+    "fiche": 11,
+    "numero": 10,
+    "question": "Une plaque orange sans aucune inscription, placée à l'arrière d'un camion signifie qu'il s’agit d'un transport de matières dangereuses circulant à vide. Vrai ou Faux ?",
+    "reponse": "Faux",
+    "explication": "La proposition sur les plaques orange du transport de matières dangereuses est incorrecte."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 1,
+    "question": "Une pierre coincée entre des roues jumelées peut entraîner l'éclatement d'un pneumatique. Vrai ou Faux ?",
+    "reponse": "Vrai",
+    "explication": "Un corps étranger entre les pneus jumelés peut les endommager et provoquer une détérioration brutale."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 2,
+    "question": "Vous avez fait une coupure de 4 h (repos), quelle sera, au minimum, la durée de la période de repos suivante pour être en règle vis-à-vis du repos journalier ?",
+    "reponse": "9 h",
+    "explication": "Le repos à prendre à la fin de la journée dépend du fractionnement déjà réalisé : la fiche donne neuf heures dans cet exemple."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 3,
+    "question": "Le recreusage des pneumatiques est-il une opération qui peut s'effectuer uniquement par un spécialiste ?",
+    "reponse": "Oui",
+    "explication": "Le recreusage des pneus est autorisé sous conditions, lorsqu’il est réalisé par un professionnel sur un pneu prévu à cet effet."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 4,
+    "question": "Ce signal concerne uniquement les véhicules affectés el au transport de marchandises excédant 3 500 kg de PTAC ?",
+    "reponse": "Non",
+    "explication": "Le panneau représenté ne concerne pas exclusivement la catégorie citée dans l’énoncé."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 5,
+    "question": "Quelle charge maximale autorisée peut supporter un essieu isolé ?",
+    "reponse": "13 t",
+    "explication": "Pour l’essieu isolé concerné, la charge maximale retenue dans cette fiche est de 13 tonnes."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 6,
+    "question": "La licence de transport intérieur permet d'effectuer > transports de tout tonnage à condition de rester en France. Vrai ou faux ?",
+    "reponse": "Faux",
+    "explication": "Le transport intérieur dans un autre pays est soumis à des règles spécifiques ; la licence nationale seule ne suffit pas toujours."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 7,
+    "question": "Sur un ticket imprimé à partir du chronotachygraphe numérique, peut-on trouver les temps de conduite et les temps passés aux autres tâches ?",
+    "reponse": "Oui",
+    "explication": "Une impression de chronotachygraphe peut mentionner des données de conduite et d’activité, sous réserve des fonctionnalités disponibles."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 8,
+    "question": "Vous conduisez un camion neuf de 19 t de PTAC. À quelle vitesse êtes-vous limité sur route prioritaire ?",
+    "reponse": "80 km/h",
+    "explication": "Sur cette route prioritaire, le camion décrit reste limité à 80 km/h dans la situation donnée."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 9,
+    "question": "Un conducteur ramenant, à vide, un camion citerne je carburant, non dégazé, doit-il obligatoirement avoir suivi une formation particulière ?",
+    "reponse": "Oui",
+    "explication": "Le transport d’un camion-citerne vide non dégazé peut encore imposer les obligations ADR appropriées."
+  },
+  {
+    "permis": "C",
+    "fiche": 12,
+    "numero": 10,
+    "question": "Quand je circule en Espagne, quel numéro de téléphone est-il conseillé d'utiliser pour appeler les secours à partir d’un portable ?",
+    "reponse": "112",
+    "explication": "Le numéro d’appel d’urgence indiqué dans la fiche est le 112, utilisable dans toute l’Union européenne."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 1,
+    "question": "Vous chargez du gravier. Vous voulez connaître la charge maximale autorisée par essieu, vous pouvez la trouver sur la plaque du constructeur. Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "La plaque constructeur indique notamment les masses autorisées ; elle permet de contrôler la charge maximale prévue pour les essieux."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 2,
+    "question": "Lorsque le conducteur serre le frein de parc, le cylindre de frein à ressort se remplit d'air. Vrai ou faux ?",
+    "reponse": "Faux",
+    "explication": "Un système de frein de parc à manque d’air doit rester sécurisé ; l’affirmation de l’énoncé est fausse."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 3,
+    "question": "La descente dangereuse annoncée possède-t-elle /.\\ un dénivelé de 100 mètres pour chaque kilomètre parcouru ? 710. \\",
+    "reponse": "Oui",
+    "explication": "Le panneau de descente dangereuse annonce un risque lié à la pente, ce qui justifie une conduite adaptée."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 4,
+    "question": "Je conduis un camion de 26 t de PTAC et de 10 t de PV. Pour emprunter une route où une barrière de dégel à 12t avec mention demi-charge autorisée, est en place, quel doit être le poids maximum de mon chargement ?",
+    "reponse": "8 t",
+    "explication": "Une barrière de dégel limite la masse autorisée ; la mention de demi-charge entraîne la limite calculée dans cette question."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 5,
+    "question": "Vous conduisez un camion comportant une caisse réfrigérée. Quelle peut être sa largeur maximale ?",
+    "reponse": "2,60 m",
+    "explication": "Les véhicules équipés d’une caisse réfrigérée peuvent bénéficier d’une largeur maximale spécifique de 2,60 mètres."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 6,
+    "question": "Effectuer un transport sous le régime \"TIR\" permet de simplifier les formalités douanières. Vrai ou Faux ?",
+    "reponse": "Vrai",
+    "explication": "Le régime TIR facilite le transport international de marchandises sous douane grâce à un système de carnets et de scellements."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 7,
+    "question": "Vous avez fait une coupure de 2 h, quelle sera, au minimum, la durée (non réduite) de la période de repos que vous devrez prendre à la fin de votre journée de travail pour être en règle vis-à-vis du repos journalier ?",
+    "reponse": "11 h",
+    "explication": "La fiche indique onze heures : une coupure initiale de deux heures ne satisfait pas au fractionnement réglementaire qui suppose un premier segment d’au moins trois heures."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 8,
+    "question": "Pendant une pause, êtes-vous autorisé à décharger le véhicule ?",
+    "reponse": "Non",
+    "explication": "Un déchargement est une activité professionnelle : on ne peut pas la comptabiliser comme une pause."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 9,
+    "question": "En cas d’excès de vitesse de 42 km/h, je pourrai repartir si je reconnais l’infraction ?",
+    "reponse": "Non",
+    "explication": "Un excès de vitesse très important peut entraîner une mesure d’immobilisation ou de rétention ; reconnaître l’infraction ne donne pas automatiquement le droit de repartir."
+  },
+  {
+    "permis": "C",
+    "fiche": 13,
+    "numero": 10,
+    "question": "Citez un type d’extincteur couramment utilisé pour éteindre une voiture en flammes.",
+    "reponse": "Poudre, mousse ou CO₂",
+    "explication": "Les extincteurs à poudre, mousse ou CO₂ peuvent être employés selon la classe de feu et leur compatibilité."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 1,
+    "question": "Après une utilisation intense, quel type de ralentisseur peut provoquer un incendie dès l'arrêt ?",
+    "reponse": "Ralentisseur électrique",
+    "explication": "Un ralentisseur électrique fortement sollicité peut rester très chaud et créer un risque d’incendie."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 2,
+    "question": "Vous vous arrêtez pour faire le plein de carburant. Sur quel symbole devez-vous positionner le sélecteur d'activité du chronotachygraphe ?",
+    "reponse": "Autres tâches (marteaux)",
+    "explication": "Faire le plein est une tâche professionnelle et doit être enregistré comme « autre travail »."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 3,
+    "question": "Le circuit de freinage européen rend le freinage de l'essieu avant indépendant du freinage de l'essieu arrière. Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "Le circuit de freinage est conçu avec des circuits séparés pour limiter le risque d’une défaillance totale."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 4,
+    "question": "Ce signal concerne-t-il les véhicules affectés au transport de produits dangereux ou au transport de produits explosifs ?",
+    "reponse": "Produits explosifs",
+    "explication": "Le panneau représenté concerne les transports de produits explosifs dans ce contexte."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 5,
+    "question": "Vous conduisez un véhicule isolé à 2 essieux. Est-il possible d'être en surcharge sur l'essieu arrière si le poids réel ne dépasse pas le PTAC ?",
+    "reponse": "Oui",
+    "explication": "Chaque essieu a sa propre charge maximale ; un camion peut être en surcharge sur un essieu même sans dépasser son PTAC."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 6,
+    "question": "Comment appelle-t-on les transports exécutés à titre non onéreux servant à transporter les marchandises de sa propre entreprise ?",
+    "reponse": "Compte propre (privé)",
+    "explication": "Le transport pour compte propre concerne les marchandises de l’entreprise transportées dans le cadre de son activité."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 7,
+    "question": "Vous conduisez sans vous arrêter depuis 8 h ce matin. Il est 12 h 40. Etes-vous en infraction ?",
+    "reponse": "Oui",
+    "explication": "Après 4 h 40 de conduite continue, la limite normale de 4 h 30 a été dépassée."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 8,
+    "question": "Vous conduisez un camion neuf de 19 t de PTAC. A quelle vitesse êtes-vous limité sur route à sens unique prioritaire ?",
+    "reponse": "80 km/h",
+    "explication": "Sur cette route prioritaire à sens unique, la vitesse maximale retenue par la fiche est de 80 km/h."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 9,
+    "question": "Je perds tous les points de mon permis de conduire à la suite d’infractions commises au volant de ma voiture personnelle. Pourrai-je continuer à conduire mon camion ?",
+    "reponse": "Non",
+    "explication": "Une invalidation du permis pour solde nul interdit de conduire les catégories concernées, dont le poids lourd."
+  },
+  {
+    "permis": "C",
+    "fiche": 14,
+    "numero": 10,
+    "question": "Le modèle allemand, italien ou espagnol d'un constat européen d'accident, comporte-t-il les mêmes rubriques que le modèle français ?",
+    "reponse": "Oui",
+    "explication": "Le constat amiable européen utilise des rubriques standardisées, même si sa langue change selon le pays."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 1,
+    "question": "Dans un camion neuf, le passager doit-il obligatoirement attacher sa ceinture de sécurité ?",
+    "reponse": "Oui",
+    "explication": "Le passager doit porter la ceinture de sécurité lorsque sa place en est équipée."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 2,
+    "question": "Le dispositif antiblocage de roues (ABS) peut-il fonctionner en même temps que le ou les dispositifs ralentisseurs ?",
+    "reponse": "Oui",
+    "explication": "L’ABS peut intervenir pendant l’utilisation d’un ralentisseur si la stabilité ou l’adhérence l’exige."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 3,
+    "question": "Cette signalisation de présignalisation « Déviation » peut annoncer une barrière de dégel. Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "La présignalisation de déviation peut accompagner une restriction temporaire de circulation, notamment une barrière de dégel."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 4,
+    "question": "Vous conduisez un tracteur solo de 19 t de PTAC et 38 t de PTRA. A quelle vitesse êtes-vous limité sur route non prioritaire ?",
+    "reponse": "60 km/h",
+    "explication": "La limitation retenue pour ce tracteur solo de 19 tonnes sur route non prioritaire est de 60 km/h."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 5,
+    "question": "Quelle est la majoration maximale autorisée du PTAC pour un véhicule équipé d'un dispositif ralentisseur pesant 400 kg ?",
+    "reponse": "400 kg",
+    "explication": "Le poids ajouté par un ralentisseur peut, dans les limites autorisées, ouvrir droit à une majoration du PTAC équivalente à ce poids."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 6,
+    "question": "Suite au contrôle technique périodique, quelle lettre figure sur le certificat d'immatriculation lorsque le véhicule est accepté ?",
+    "reponse": "A (ou lettre A)",
+    "explication": "La fiche associe la lettre A à un contrôle technique accepté."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 7,
+    "question": "Après 2 heures de conduite, quelle est la durée minimale d’un premier arrêt pouvant être pris en compte comme pause ?",
+    "reponse": "15 min",
+    "explication": "Une pause de quinze minutes est le premier segment minimal admis pour une pause fractionnée de conduite."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 8,
+    "question": "Vous rentrez chez vous le soir avec le camion de l’entreprise. Le matin, le temps de conduite pour vous rendre au dépôt est-il compté comme du temps de conduite ?",
+    "reponse": "Oui",
+    "explication": "Le temps de conduite du camion utilisé pour rejoindre le dépôt peut entrer dans les temps de conduite réglementés selon ce scénario."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 9,
+    "question": "Sur une route à double sens limitée à 70 km/h, lors d’un contrôle routier, votre carte conducteur indique que vous rouliez à 80 km/h. Pouvez-vous être sanctionné ?",
+    "reponse": "Oui",
+    "explication": "Rouler au-delà de la limitation applicable peut entraîner une sanction, même si la route comporte une autre limitation générale."
+  },
+  {
+    "permis": "C",
+    "fiche": 15,
+    "numero": 10,
+    "question": "Le signal de détresse peut-il remplacer le triangle de présignalisation pour un véhicule d’un PTAC de plus de 3,5 t ?",
+    "reponse": "Non",
+    "explication": "Les feux de détresse ne dispensent pas automatiquement du triangle réglementaire lorsque son installation peut se faire sans danger."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 1,
+    "question": "Au-delà de quel PTAC les véhicules de transport de marchandises doivent-ils être équipés d’un dispositif complémentaire de signalisation arrière ?",
+    "reponse": "6 t",
+    "explication": "La signalisation complémentaire arrière est obligatoire pour certaines catégories de véhicules lourds à partir du seuil indiqué."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 2,
+    "question": "En règle générale, quelle est la durée minimale normale (non réduite) obligatoire de repos journalier lorsque celui-ci n’est pas fractionné ?",
+    "reponse": "11 h",
+    "explication": "Le repos journalier normal non fractionné dure au moins onze heures consécutives."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 3,
+    "question": "En principe, le ralentisseur hydraulique est situé sur … ?",
+    "reponse": "La transmission (arbre de transmission)",
+    "explication": "Le ralentisseur hydraulique est généralement monté sur la transmission, en complément du freinage de service."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 4,
+    "question": "Ce signal concerne-t-il uniquement les véhicules isolés ?",
+    "reponse": "Non",
+    "explication": "Le panneau représenté vise les ensembles ou véhicules indiqués par son pictogramme et pas exclusivement les isolés."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 5,
+    "question": "Vous transportez du béton liquide. Votre camion (isolé) comporte 4 essieux. Lors de la pesée avant de partir, le ticket annonce 30,5 t. Avez-vous le droit de prendre la route ?",
+    "reponse": "Oui",
+    "explication": "La masse réelle annoncée reste compatible avec la limite donnée pour le camion à quatre essieux dans la fiche, sous réserve des charges par essieu."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 6,
+    "question": "Pour un camion carrossé dans un atelier agréé, quel est le délai maximal pour le présenter à la première visite technique ?",
+    "reponse": "12 mois (1 an)",
+    "explication": "La première visite technique doit intervenir dans le délai réglementaire mentionné après la transformation du véhicule."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 7,
+    "question": "Vous avez interrompu votre conduite pendant 45 mn. Ce temps peut-il être pris en compte pour le calcul du temps de repos journalier ?",
+    "reponse": "Non",
+    "explication": "Une interruption de 45 minutes n’est pas un repos journalier normal ou réduit à elle seule."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 8,
+    "question": "Vous conduisez un tracteur solo de 19 t de PTAC et 38 t de PTRA. À quelle vitesse êtes-vous limité sur route prioritaire ?",
+    "reponse": "80 km/h",
+    "explication": "Pour un tracteur routier solo répondant aux caractéristiques données, la limite retenue ici est 80 km/h."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 9,
+    "question": "Lors d’un contrôle sur la route, est-il obligatoire de pouvoir présenter votre carte de qualification conducteur (CQC) ?",
+    "reponse": "Oui",
+    "explication": "Le conducteur soumis à qualification doit pouvoir justifier sa formation et présenter le document valable correspondant."
+  },
+  {
+    "permis": "C",
+    "fiche": 16,
+    "numero": 10,
+    "question": "Dans une longue descente, en cas de rupture de freins, si j'utilise une voie de détresse, le véhicule que je conduis sera-t-il gravement endommagé ?",
+    "reponse": "Non",
+    "explication": "Une voie de détresse vise à arrêter un véhicule dont les freins ne fonctionnent plus, même si le véhicule peut être endommagé dans certains cas."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 1,
+    "question": "Vous suivez un véhicule dont les dispositifs réfléchissants sont triangulaires. Ce véhicule est probablement un véhicule isolé. Vrai ou Faux ?",
+    "reponse": "Faux",
+    "explication": "Les triangles réfléchissants arrière sont normalement caractéristiques des remorques ; la supposition « véhicule isolé » est fausse."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 2,
+    "question": "La rémunération mensuelle d’un conducteur salarié peut être calculée en fonction de la charge transportée pendant le mois. Vrai ou Faux ?",
+    "reponse": "Faux",
+    "explication": "La rémunération ne doit pas encourager une conduite dangereuse par un calcul lié à la charge transportée."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 3,
+    "question": "Parmi les types de graissage moteur, il existe le graissage par pression. Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "Le graissage sous pression est une technique courante de lubrification des moteurs."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 4,
+    "question": "Je circule avec un véhicule mesurant 2,30 m de large. A hauteur de ce signal, puis-je continuer sur cette route ?",
+    "reponse": "Oui",
+    "explication": "Le panneau de limitation de largeur à 2,30 mètres permet le passage du véhicule correspondant à cette largeur."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 5,
+    "question": "En règle générale, de quelle longueur maximale un chargement muni d'une signalisation réglementaire peut-il dépasser l'arrière du véhicule ?",
+    "reponse": "3 m",
+    "explication": "Un dépassement arrière du chargement peut être autorisé jusqu’à trois mètres, avec les dispositifs de signalisation requis."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 6,
+    "question": "Comment s'appelle le document qui doit accompagner la marchandise lors de tout transport pour compte d'autrui ?",
+    "reponse": "Lettre de voiture",
+    "explication": "La lettre de voiture documente le transport des marchandises pour compte d’autrui."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 7,
+    "question": "Vous conduisez un tracteur solo de 19 t de PTAC et 38 t de PTRA. A quelle vitesse êtes-vous limité sur route à sens unique prioritaire ?",
+    "reponse": "80 km/h",
+    "explication": "Pour ce tracteur solo sur route prioritaire à sens unique, la fiche retient une limite de 80 km/h."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 8,
+    "question": "Pendant une pause, êtes-vous autorisé à ranger le chargement du véhicule ?",
+    "reponse": "Non",
+    "explication": "Ranger ou réorganiser un chargement est du travail, pas du repos."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 9,
+    "question": "Quelle est la catégorie du permis exigée pour conduire un véhicule de transport en commun comportant 45 places circulant à vide ?",
+    "reponse": "D",
+    "explication": "Conduire un autocar de 45 places, même vide, relève de la catégorie D."
+  },
+  {
+    "permis": "C",
+    "fiche": 17,
+    "numero": 10,
+    "question": "En cas d'accident dans lequel votre véhicule est en cause, les forces de l'ordre peuvent-elles saisir votre carte “conducteur” ?",
+    "reponse": "Oui",
+    "explication": "Les enquêteurs peuvent saisir des supports et documents utiles à l’établissement des faits d’un accident."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 1,
+    "question": "Le circuit électrique alimentant le chronotachygraphe est-il indépendant du circuit alimentant le coupe-batterie ?",
+    "reponse": "Oui",
+    "explication": "L’alimentation du tachygraphe doit être assurée indépendamment de l’usage du coupe-batterie dans la configuration présentée."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 2,
+    "question": "La rémunération mensuelle d’un conducteur salarié peut être calculée en fonction de la distance parcourue pendant le mois. Vrai ou Faux ?",
+    "reponse": "Faux",
+    "explication": "Une rémunération calculée uniquement sur la distance parcourue peut favoriser des comportements dangereux et ne correspond pas au cadre retenu."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 3,
+    "question": "Au-delà de quel taux de surcharge (en pourcentage) le camion pourra-t-il être immobilisé jusqu’au déchargement de l’excédent ?",
+    "reponse": "5 %",
+    "explication": "Une surcharge supérieure au seuil indiqué peut entraîner l’immobilisation du véhicule jusqu’à régularisation."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 4,
+    "question": "Ce signal m’annonce-t-il une voie de détresse qui sera située sur ma gauche ?",
+    "reponse": "Non",
+    "explication": "Le panneau représenté n’annonce pas une voie de détresse située sur la gauche comme le prétend l’énoncé."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 5,
+    "question": "Vous conduisez un camion de 2,50 m de large ne comportant pas de caisse réfrigérée. Votre chargement peut-il atteindre 2,60 m de large ?",
+    "reponse": "Non",
+    "explication": "La largeur autorisée pour le véhicule et son chargement ne peut pas dépasser le maximum applicable au cas présenté."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 6,
+    "question": "Faut-il un seul certificat d’immatriculation pour un ensemble de véhicules constitué d’un camion de 19 t de PTAC auquel on a attelé une bétonnière sur roues de 400 kg ?",
+    "reponse": "Oui",
+    "explication": "Dans le cas spécifique décrit (bétonnière sur roues de 400 kg), le PDF répond oui. Il faut distinguer ce matériel d’une remorque ordinaire soumise à immatriculation."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 7,
+    "question": "Une huile multigrade classée SAE 20 W 40 peut-elle être utilisée uniquement en hiver ?",
+    "reponse": "Non",
+    "explication": "Une huile multigrade SAE 20W-40 est conçue pour couvrir plusieurs plages de température, pas uniquement l’hiver."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 8,
+    "question": "Si, dans la même journée, vous conduisez un véhicule avec un chronotachygraphe numérique après avoir conduit un véhicule avec un chronotachygraphe à disque, devez-vous conserver le disque avec vous ?",
+    "reponse": "Oui",
+    "explication": "Le conducteur doit être en mesure de justifier les périodes enregistrées avec des dispositifs analogiques et numériques."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 9,
+    "question": "Un véhicule isolé de 26 t de PTAC doit comporter à l'arrière un ou des disque(s) de limitation de vitesse. Quelle(s) est ou sont la ou les vitesse(s) indiquée(s) à l'arrière de ce camion ?",
+    "reponse": "80 et 90 km/h",
+    "explication": "Le camion concerné porte des indications de limitation correspondant aux valeurs retenues par la fiche."
+  },
+  {
+    "permis": "C",
+    "fiche": 18,
+    "numero": 10,
+    "question": "Avec votre véhicule, vous avez détérioré des panneaux de signalisation. Devez-vous obligatoirement le signaler à votre compagnie d'assurance ?",
+    "reponse": "Oui",
+    "explication": "Tout dommage causé à des équipements de signalisation doit être déclaré à l’assureur suivant les obligations applicables."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 1,
+    "question": "Quelle est la périodicité des vérifications techniques obligatoires pour les chronotachygraphes ?",
+    "reponse": "2 ans",
+    "explication": "La vérification périodique d’un chronotachygraphe doit être effectuée par un atelier agréé selon l’intervalle prévu."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 2,
+    "question": "Le contrôle et le remplissage du circuit de refroidissement s'effectuent plutôt moteur chaud ou moteur froid ?",
+    "reponse": "Moteur froid",
+    "explication": "Un contrôle de niveau sur le circuit de refroidissement s’effectue à froid pour éviter les brûlures et obtenir une mesure fiable."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 3,
+    "question": "Je circule, à vide, avec un véhicule de 5 tonnes de poids à vide et de 15 tonnes de PTAC. A hauteur de ce signal, puis-je passer ?",
+    "reponse": "Non",
+    "explication": "La limitation indiquée par le panneau s’applique ici d’après la masse maximale autorisée et non le poids à vide."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 4,
+    "question": "Au-delà de quel tonnage les camions sont-ils concernés par les interdictions de circuler de fin de semaine ?",
+    "reponse": "7,5 t",
+    "explication": "L’interdiction générale de circulation de fin de semaine concerne les camions au-dessus de ce seuil de PTAC, sauf dérogations."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 5,
+    "question": "Le chargement d'un véhicule peut-il dépasser 4 m de haut ?",
+    "reponse": "Oui",
+    "explication": "Aucune limite générale de hauteur à quatre mètres ne s’applique partout ; il faut respecter le gabarit routier et les obstacles signalés."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 6,
+    "question": "Que signifie la mention “TIR” placée sur une plaque à l'arrière du véhicule ?",
+    "reponse": "Transit international routier",
+    "explication": "TIR signifie « Transit international routier », un régime douanier de transport de marchandises."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 7,
+    "question": "Vous conduisez sans vous arrêter depuis 8 h 40 ce matin. Il est 12 h 40. Etes-vous en infraction ?",
+    "reponse": "Non",
+    "explication": "De 8 h 40 à 12 h 40, il s’est écoulé quatre heures, soit moins que la durée limite ordinaire de conduite continue."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 8,
+    "question": "Si vous avez à imprimer un ticket à partir d'un chronotachygraphe numérique, devez-vous inscrire votre nom sur le ticket, si votre carte “conducteur” est retirée de l'appareil au moment de l'impression ?",
+    "reponse": "Non",
+    "explication": "Sur un ticket imprimé par un tachygraphe numérique, les données personnelles ne sont pas toujours complétées manuellement si elles sont déjà identifiées."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 9,
+    "question": "En cas de récidive de grand excès de vitesse, une suspension du permis de conduire peut être assortie d’un permis limité à la conduite professionnelle (« permis blanc ») si l’infraction a été commise avec la voiture personnelle du chauffeur. Vrai ou faux ?",
+    "reponse": "Faux",
+    "explication": "Un « permis blanc » ne peut pas être accordé dans les situations exclues par la réglementation, notamment celles visées ici."
+  },
+  {
+    "permis": "C",
+    "fiche": 19,
+    "numero": 10,
+    "question": "Les accidents corporels entre un poids lourd et une voiture sont majoritairement des accidents avec des véhicules circulant dans le même sens. Vrai ou faux ?",
+    "reponse": "Vrai",
+    "explication": "La proposition statistique est considérée vraie dans la banque de réponses utilisée ; les données peuvent varier selon les années."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 1,
+    "question": "En cas d'obligation, une paire de chaînes à neige doit être montée sur les roues motrices ou sur les roues directrices ?",
+    "reponse": "Les roues motrices",
+    "explication": "Les chaînes doivent assurer la motricité et sont donc montées sur les roues motrices selon cette question."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 2,
+    "question": "En règle générale, les véhicules lourds utilisent deux batteries de 12 volts montées en … ?",
+    "reponse": "En série",
+    "explication": "Deux batteries de 12 volts montées en série fournissent une tension totale de 24 volts."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 3,
+    "question": "Ce signal peut-il concerner les véhicules transportant une faible quantité de produits polluants ?",
+    "reponse": "Oui",
+    "explication": "La signalisation représentée peut viser certains transports de matières dangereuses, y compris les produits polluants concernés."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 4,
+    "question": "Vous conduisez un camion de plus de 7,5 t de PTAC. En règle générale, quand débute l'interdiction de circulation en fin de semaine ?",
+    "reponse": "Samedi à 22 h",
+    "explication": "L’interdiction générale débute le samedi à 22 heures pour les véhicules concernés, sauf exceptions."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 5,
+    "question": "Vous transportez du béton liquide. Votre camion (isolé) comporte 4 essieux. Lors de la pesée avant de partir, le ticket annonce 32,8 t. Avez-vous le droit de prendre la route ?",
+    "reponse": "Non",
+    "explication": "Le poids total mesuré dépasse la limite retenue pour ce camion à quatre essieux dans la fiche."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 6,
+    "question": "La dernière visite technique de votre camion date de 8 mois. Êtes-vous en infraction en le conduisant ?",
+    "reponse": "Non",
+    "explication": "Un camion doit subir ses contrôles techniques selon la périodicité obligatoire ; huit mois peuvent déjà dépasser le délai prévu dans ce scénario."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 7,
+    "question": "Vous venez d’obtenir votre permis C, pouvez-vous conduire un véhicule équipé d’un chronotachygraphe numérique avant d’avoir reçu votre carte conducteur ?",
+    "reponse": "Non",
+    "explication": "La carte conducteur est nominative et doit être obtenue avant les trajets soumis à son utilisation dans le cas présenté."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 8,
+    "question": "Après 4 h 30 de conduite continue, quelle est la durée minimale de la pause que vous devez respecter ?",
+    "reponse": "45 min",
+    "explication": "Après 4 heures 30 de conduite continue, il faut normalement une pause d’au moins 45 minutes ou un repos."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 9,
+    "question": "Après l’obtention (hors diplômes professionnels) de votre premier permis de conduire du groupe lourd, devez-vous obligatoirement suivre une Formation Initiale Minimale Obligatoire (FIMO) pour le transport de biens dans des buts privés ?",
+    "reponse": "Non",
+    "explication": "La FIMO n’est pas exigée pour tous les déplacements privés non commerciaux ; il faut distinguer l’usage du transport professionnel."
+  },
+  {
+    "permis": "C",
+    "fiche": 20,
+    "numero": 10,
+    "question": "Si une partie de votre chargement est tombée sur la chaussée, par quel dispositif obligatoire devez-vous prévenir les autres usagers ?",
+    "reponse": "Un triangle de présignalisation",
+    "explication": "Le triangle de présignalisation avertit les autres usagers du danger créé par un arrêt ou un obstacle, lorsque son emploi peut se faire en sécurité."
+  }
+]

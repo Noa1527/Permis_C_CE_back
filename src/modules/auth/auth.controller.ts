@@ -38,11 +38,13 @@ export class AuthController {
   ) {
     const { accessToken } = await this.authService.signIn(req.user);
     const isProduction = this.configService.get<string>('NODE_ENV') === 'production';
+    const proce = this.configService.get<string>('FRONTEND_URL')
 
     res.cookie('accessToken', accessToken, {
       httpOnly: true,
       secure: isProduction,
       sameSite: isProduction ? 'none' : 'lax',
+      partitioned: isProduction ? true : false,
       path: '/',
       maxAge: 7 * 24 * 60 * 60 * 1000, // 7 jours, en millisecondes
     });

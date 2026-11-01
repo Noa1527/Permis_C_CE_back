@@ -23,7 +23,8 @@ export class QuestionsEcritesController {
         private _questionsEcritesService: QuestionsEcritesService,
         private _caslQuestionEcriteAbilityFactory: CaslQuestionEcriteAbilityFactory,
     ) {}
- /**
+    
+  /**
    * Récupérer les questions écrites
    * Permis C ou CE, avec filtre par fiche.
    */

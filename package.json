@@ -18,7 +18,10 @@
     "test:cov": "jest --coverage",
     "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
     "test:e2e": "jest --config ./test/jest-e2e.json",
-    "import:questions": "ts-node -r tsconfig-paths/register src/scripts/import-questions.ts"
+    "import:questions": "ts-node -r tsconfig-paths/register src/scripts/import-questions.ts",
+    "import:fiches-orales": "ts-node -r tsconfig-paths/register src/scripts/import-fiches-orales.ts"
+
+
     
   },
   "dependencies": {

@@ -1,0 +1,800 @@
+[
+  {
+    "numero": 1,
+    "slug": "conditions-atmospheriques-difficiles-route-de-nuit",
+    "titre": "Conduite dans des conditions atmosphériques difficiles, route de nuit",
+    "permis": [
+      "C",
+      "CE"
+    ],
+    "introduction": "Au volant d'un poids lourd, le conducteur doit anticiper les conséquences du mauvais temps et de la conduite nocturne, adapter son allure et préserver sa vigilance malgré les contraintes du transport.",
+    "source": {
+      "ouvrage": "Codes Rousseau, fiche orale n° 1",
+      "pages": "52 à 61",
+      "nature": "Reformulation pédagogique des photographies fournies par l'utilisateur"
+    },
+    "versionContenu": "1.0.0",
+    "sections": [
+      {
+        "id": "conduite-et-comportement",
+        "titre": "Conduite et comportement",
+        "points": [
+          {
+            "id": "pluie",
+            "ordre": 1,
+            "titre": "Pluie",
+            "cours": {
+              "resume": "La pluie réduit l'adhérence, allonge les distances de freinage et gêne la perception des autres usagers. Les premières gouttes peuvent rendre la route particulièrement glissante.",
+              "risques": [
+                "Chaussée glissante, notamment au début de la pluie",
+                "Distance de freinage fortement allongée (le manuel rappelle qu'elle peut doubler)",
+                "Rétroviseurs, vitres et marquages moins faciles à distinguer",
+                "Projections d'eau et visibilité diminuée"
+              ],
+              "conseils": [
+                "Réduire sa vitesse et augmenter les distances de sécurité",
+                "Éviter les freinages et manœuvres brusques",
+                "Allumer les feux adaptés : croisement, et brouillard avant en cas de forte pluie si utile ; jamais les feux de brouillard arrière sous la seule pluie",
+                "Employer essuie-glaces, ventilation et désembuage",
+                "Utiliser le frein moteur avec souplesse ; rester prudent avec les ralentisseurs quand l'adhérence est faible"
+              ]
+            },
+            "entrainement": {
+              "type": "reponse-libre-auto-correction",
+              "question": "Quels sont les dangers de la pluie en poids lourd et comment adaptes-tu ta conduite ?",
+              "consigne": "Pendant 7 minutes, rédige tout ce dont tu te souviens. Après le temps imparti, compare ta réponse avec les éléments attendus et coche ceux que tu as correctement expliqués.",
+              "dureeSecondes": 420,
+              "correctionVisibleApresChrono": true,
+              "criteres": [
+                {
+                  "id": "pluie-adh",
+                  "titre": "Perte d'adhérence",
+                  "explication": "Expliquer le risque de glissade, particulièrement au début de la pluie.",
+                  "motsCles": [
+                    "adhérence",
+                    "glissante",
+                    "verglas d'été"
+                  ]
+                },
+                {
+                  "id": "pluie-frein",
+                  "titre": "Freinage allongé",
+                  "explication": "Signaler que les distances de freinage augmentent fortement et peuvent doubler dans les conditions décrites par le manuel.",
+                  "motsCles": [
+                    "freinage",
+                    "distance",
+                    "doubler"
+                  ]
+                },
+                {
+                  "id": "pluie-vitesse",
+                  "titre": "Vitesse réduite",
+                  "explication": "Adapter la vitesse aux conditions et anticiper les obstacles.",
+                  "motsCles": [
+                    "réduire",
+                    "ralentir",
+                    "vitesse"
+                  ]
+                },
+                {
+                  "id": "pluie-dist",
+                  "titre": "Distances de sécurité",
+                  "explication": "Augmenter l'espace avec les autres véhicules.",
+                  "motsCles": [
+                    "distance",
+                    "sécurité"
+                  ]
+                },
+                {
+                  "id": "pluie-feux",
+                  "titre": "Feux adaptés",
+                  "explication": "Utiliser les feux de croisement et, si besoin, ceux de brouillard avant en forte pluie ; ne pas utiliser les feux de brouillard arrière sous la seule pluie.",
+                  "motsCles": [
+                    "feux",
+                    "croisement",
+                    "brouillard arrière"
+                  ]
+                },
+                {
+                  "id": "pluie-access",
+                  "titre": "Visibilité et accessoires",
+                  "explication": "Utiliser essuie-glaces, ventilation et désembuage.",
+                  "motsCles": [
+                    "essuie-glaces",
+                    "ventilation",
+                    "buée"
+                  ]
+                },
+                {
+                  "id": "pluie-souplesse",
+                  "titre": "Conduite souple",
+                  "explication": "Éviter les gestes brusques et maîtriser l'usage du frein moteur ou du ralentisseur.",
+                  "motsCles": [
+                    "souplesse",
+                    "frein moteur",
+                    "ralentisseur"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "brouillard",
+            "ordre": 2,
+            "titre": "Brouillard",
+            "cours": {
+              "resume": "Le brouillard réduit la visibilité, masque les autres usagers et peut s'accompagner d'une chaussée humide.",
+              "risques": [
+                "Visibilité parfois inférieure à 50 mètres",
+                "Difficulté à repérer les autres véhicules et obstacles",
+                "Chaussée humide et freinage plus difficile"
+              ],
+              "conseils": [
+                "Si la visibilité est inférieure à 50 m, ne pas dépasser 50 km/h sur toute route",
+                "Maintenir une distance d'arrêt inférieure à la distance visible",
+                "Augmenter les distances de sécurité et ralentir",
+                "Se guider grâce aux marquages au sol sans les fixer au détriment de la surveillance de la route",
+                "Utiliser l'éclairage réglementaire : feux de croisement et, si approprié, feux de brouillard",
+                "Utiliser essuie-glaces et désembuage si nécessaire"
+              ]
+            },
+            "entrainement": {
+              "type": "reponse-libre-auto-correction",
+              "question": "Quels risques présente le brouillard et quelles précautions prends-tu ?",
+              "consigne": "Pendant 7 minutes, rédige tout ce dont tu te souviens. Après le temps imparti, compare ta réponse avec les éléments attendus et coche ceux que tu as correctement expliqués.",
+              "dureeSecondes": 420,
+              "correctionVisibleApresChrono": true,
+              "criteres": [
+                {
+                  "id": "brouillard-vis",
+                  "titre": "Visibilité réduite",
+                  "explication": "Mentionner la difficulté à voir les véhicules, les obstacles et les distances.",
+                  "motsCles": [
+                    "visibilité",
+                    "voir",
+                    "obstacles"
+                  ]
+                },
+                {
+                  "id": "brouillard-50",
+                  "titre": "Règle des 50 m / 50 km/h",
+                  "explication": "Lorsque la visibilité est inférieure à 50 m, la vitesse maximale est 50 km/h.",
+                  "motsCles": [
+                    "50 mètres",
+                    "50 km/h",
+                    "limitation"
+                  ]
+                },
+                {
+                  "id": "brouillard-arret",
+                  "titre": "Distance d'arrêt",
+                  "explication": "Pouvoir arrêter le véhicule dans la distance visible.",
+                  "motsCles": [
+                    "distance d'arrêt",
+                    "visibilité"
+                  ]
+                },
+                {
+                  "id": "brouillard-dist",
+                  "titre": "Distances de sécurité",
+                  "explication": "Laisser davantage d'espace et réduire l'allure.",
+                  "motsCles": [
+                    "distance",
+                    "ralentir",
+                    "vitesse"
+                  ]
+                },
+                {
+                  "id": "brouillard-sol",
+                  "titre": "Marquage au sol",
+                  "explication": "Utiliser les lignes au sol comme repère lorsque la visibilité baisse.",
+                  "motsCles": [
+                    "marquage",
+                    "lignes",
+                    "sol"
+                  ]
+                },
+                {
+                  "id": "brouillard-feux",
+                  "titre": "Éclairage adapté",
+                  "explication": "Employer les feux de croisement et les feux de brouillard selon la situation.",
+                  "motsCles": [
+                    "feux",
+                    "brouillard",
+                    "croisement"
+                  ]
+                },
+                {
+                  "id": "brouillard-access",
+                  "titre": "Désembuage",
+                  "explication": "Employer essuie-glaces, chauffage et ventilation au besoin.",
+                  "motsCles": [
+                    "essuie-glaces",
+                    "chauffage",
+                    "ventilation"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "vent",
+            "ordre": 3,
+            "titre": "Vent",
+            "cours": {
+              "resume": "Le vent latéral peut déporter un poids lourd, surtout lorsqu'il est vide ou présente une grande surface latérale.",
+              "risques": [
+                "Écart soudain de trajectoire sur les ponts et dans les zones dégagées",
+                "Rafales lors des croisements et dépassements",
+                "Sensibilité accrue des véhicules à vide"
+              ],
+              "conseils": [
+                "Réduire la vitesse à l'approche des zones exposées",
+                "Augmenter l'écartement latéral en croisement ou dépassement",
+                "Observer les manches à air et les indices visibles de rafales",
+                "Anticiper le passage d'une zone abritée à une zone dégagée",
+                "Rester vigilant au maintien de la trajectoire"
+              ]
+            },
+            "entrainement": {
+              "type": "reponse-libre-auto-correction",
+              "question": "Quels sont les dangers du vent pour un camion et comment réagis-tu ?",
+              "consigne": "Pendant 7 minutes, rédige tout ce dont tu te souviens. Après le temps imparti, compare ta réponse avec les éléments attendus et coche ceux que tu as correctement expliqués.",
+              "dureeSecondes": 420,
+              "correctionVisibleApresChrono": true,
+              "criteres": [
+                {
+                  "id": "vent-deport",
+                  "titre": "Risque de déport",
+                  "explication": "Le vent peut pousser le camion sur le côté et modifier sa trajectoire.",
+                  "motsCles": [
+                    "déport",
+                    "écart",
+                    "latéral"
+                  ]
+                },
+                {
+                  "id": "vent-zones",
+                  "titre": "Zones à risque",
+                  "explication": "Identifier ponts, espaces dégagés et transitions entre zones abritées et exposées.",
+                  "motsCles": [
+                    "pont",
+                    "zone dégagée",
+                    "rafale"
+                  ]
+                },
+                {
+                  "id": "vent-vide",
+                  "titre": "Véhicule à vide",
+                  "explication": "Un véhicule vide est souvent plus sensible au vent.",
+                  "motsCles": [
+                    "vide",
+                    "vent"
+                  ]
+                },
+                {
+                  "id": "vent-vitesse",
+                  "titre": "Réduire la vitesse",
+                  "explication": "Lever le pied avant les zones exposées.",
+                  "motsCles": [
+                    "ralentir",
+                    "vitesse"
+                  ]
+                },
+                {
+                  "id": "vent-ecarts",
+                  "titre": "Espacements latéraux",
+                  "explication": "Garder une marge supplémentaire pour les croisements et dépassements.",
+                  "motsCles": [
+                    "espacement",
+                    "écartement",
+                    "dépassement"
+                  ]
+                },
+                {
+                  "id": "vent-manches",
+                  "titre": "Manches à air",
+                  "explication": "Observer les manches à air pour connaître force et direction du vent.",
+                  "motsCles": [
+                    "manche à air",
+                    "direction",
+                    "force"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "neige-et-verglas",
+            "ordre": 4,
+            "titre": "Neige et verglas",
+            "cours": {
+              "resume": "La neige et surtout le verglas diminuent très fortement l'adhérence. L'anticipation, la douceur des commandes et le respect des restrictions sont essentiels.",
+              "risques": [
+                "Perte d'adhérence et allongement important du freinage",
+                "Présence possible de plaques de verglas dans les zones ombragées",
+                "Routes interdites ou restreintes à certaines catégories de poids lourds",
+                "Risque de glissade au moment de descendre du véhicule"
+              ],
+              "conseils": [
+                "Privilégier les grands axes accessibles et vérifier les restrictions avant de partir",
+                "Réduire sa vitesse très en amont et augmenter largement les distances de sécurité",
+                "Conduire avec souplesse : accélérer, tourner et freiner sans à-coups",
+                "Éviter l'usage du ralentisseur sur chaussée glissante",
+                "Adapter les feux et l'utilisation du chauffage, de la ventilation et des essuie-glaces",
+                "Respecter les barrières de dégel, limitations de vitesse et de tonnage",
+                "Utiliser les équipements hivernaux autorisés ou obligatoires selon la situation",
+                "Ne pas dépasser les engins de service hivernal en action",
+                "Lorsqu'au moins une voie est enneigée ou verglacée, respecter l'interdiction de dépassement ou changement de file qui concerne les véhicules de PTAC supérieur à 3,5 t et les ensembles de plus de 7 m"
+              ]
+            },
+            "entrainement": {
+              "type": "reponse-libre-auto-correction",
+              "question": "Que dois-tu connaître et faire lorsqu'il neige ou qu'il y a du verglas ?",
+              "consigne": "Pendant 7 minutes, rédige tout ce dont tu te souviens. Après le temps imparti, compare ta réponse avec les éléments attendus et coche ceux que tu as correctement expliqués.",
+              "dureeSecondes": 420,
+              "correctionVisibleApresChrono": true,
+              "criteres": [
+                {
+                  "id": "neige-adherence",
+                  "titre": "Adhérence très faible",
+                  "explication": "Expliquer les pertes d'adhérence et la grande augmentation des distances de freinage.",
+                  "motsCles": [
+                    "adhérence",
+                    "freinage",
+                    "glissant"
+                  ]
+                },
+                {
+                  "id": "neige-souplesse",
+                  "titre": "Manœuvres sans à-coups",
+                  "explication": "Accélérer, tourner et freiner progressivement.",
+                  "motsCles": [
+                    "souplesse",
+                    "sans à-coups",
+                    "doucement"
+                  ]
+                },
+                {
+                  "id": "neige-distance",
+                  "titre": "Vitesse et distances",
+                  "explication": "Ralentir longtemps à l'avance et accroître fortement les distances de sécurité.",
+                  "motsCles": [
+                    "ralentir",
+                    "distance",
+                    "anticiper"
+                  ]
+                },
+                {
+                  "id": "neige-ombre",
+                  "titre": "Zones ombragées",
+                  "explication": "Se méfier des plaques de verglas sur les parties qui restent froides.",
+                  "motsCles": [
+                    "ombre",
+                    "verglas",
+                    "plaque"
+                  ]
+                },
+                {
+                  "id": "neige-ralentisseur",
+                  "titre": "Éviter le ralentisseur",
+                  "explication": "Sur chaussée très glissante, ne pas déclencher un ralentisseur au risque de perdre l'adhérence des roues motrices.",
+                  "motsCles": [
+                    "ralentisseur",
+                    "adhérence"
+                  ]
+                },
+                {
+                  "id": "neige-regles",
+                  "titre": "Restrictions et barrières de dégel",
+                  "explication": "Contrôler les limitations de circulation, de tonnage et les barrières de dégel.",
+                  "motsCles": [
+                    "restriction",
+                    "barrière de dégel",
+                    "tonnage"
+                  ]
+                },
+                {
+                  "id": "neige-depassement",
+                  "titre": "Interdictions de dépasser",
+                  "explication": "Avec une voie enneigée ou verglacée, pas de dépassement ni de changement de file pour les véhicules de PTAC > 3,5 t ou les ensembles > 7 m. Ne pas dépasser les engins de service hivernal en action.",
+                  "motsCles": [
+                    "dépassement",
+                    "changement de file",
+                    "déneigement"
+                  ]
+                },
+                {
+                  "id": "neige-equipment",
+                  "titre": "Équipements et feux",
+                  "explication": "Utiliser les équipements adaptés et autorisés ainsi que les feux adaptés ; assurer le désembuage.",
+                  "motsCles": [
+                    "chaînes",
+                    "pneus",
+                    "feux",
+                    "ventilation"
+                  ]
+                },
+                {
+                  "id": "neige-descente",
+                  "titre": "Sécurité à la descente",
+                  "explication": "Attention au risque de chute en sortant de la cabine.",
+                  "motsCles": [
+                    "descendre",
+                    "chute",
+                    "glisser"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "nuit",
+            "ordre": 5,
+            "titre": "Nuit",
+            "cours": {
+              "resume": "La nuit réduit le champ de vision utile et facilite la fatigue. Il faut conduire à une vitesse permettant de s'arrêter dans la zone éclairée.",
+              "risques": [
+                "Diminution de la vision latérale et de la précision visuelle",
+                "Difficulté à évaluer distances, couleurs et obstacles",
+                "Éblouissement par les feux d'autres véhicules",
+                "Risque de somnolence, notamment durant la nuit",
+                "Accidents susceptibles d'être plus graves"
+              ],
+              "conseils": [
+                "Adapter sa vitesse à la portée des feux : la distance d'arrêt doit rester dans la zone visible",
+                "Ralentir lors du passage des feux de route aux feux de croisement",
+                "Ne pas fixer les phares adverses ; porter le regard vers le bord droit de la route",
+                "Utiliser les feux de route lorsqu'ils sont adaptés, sans éblouir les autres usagers",
+                "Faire des pauses dès les premiers signes de fatigue",
+                "Faire contrôler sa vue en cas de difficulté"
+              ]
+            },
+            "entrainement": {
+              "type": "reponse-libre-auto-correction",
+              "question": "Pourquoi la conduite de nuit est-elle dangereuse et comment dois-tu te comporter ?",
+              "consigne": "Pendant 7 minutes, rédige tout ce dont tu te souviens. Après le temps imparti, compare ta réponse avec les éléments attendus et coche ceux que tu as correctement expliqués.",
+              "dureeSecondes": 420,
+              "correctionVisibleApresChrono": true,
+              "criteres": [
+                {
+                  "id": "nuit-visibilite",
+                  "titre": "Vision réduite",
+                  "explication": "La vision latérale, la perception des obstacles et l'appréciation des distances se dégradent.",
+                  "motsCles": [
+                    "vision",
+                    "visibilité",
+                    "champ visuel"
+                  ]
+                },
+                {
+                  "id": "nuit-gravite",
+                  "titre": "Accidents plus graves",
+                  "explication": "Expliquer que la gravité peut augmenter, notamment avec vitesse, fatigue, alcool ou mauvaise visibilité.",
+                  "motsCles": [
+                    "accident",
+                    "gravité",
+                    "alcool",
+                    "vitesse"
+                  ]
+                },
+                {
+                  "id": "nuit-eblouissement",
+                  "titre": "Éblouissement",
+                  "explication": "Ne pas fixer les phares venant en face et regarder vers le bord droit.",
+                  "motsCles": [
+                    "éblouissement",
+                    "accotement",
+                    "droit"
+                  ]
+                },
+                {
+                  "id": "nuit-zone",
+                  "titre": "Distance d'arrêt dans la zone visible",
+                  "explication": "Adapter la vitesse à la distance éclairée par les feux.",
+                  "motsCles": [
+                    "distance d'arrêt",
+                    "phares",
+                    "éclairage"
+                  ]
+                },
+                {
+                  "id": "nuit-feux",
+                  "titre": "Usage adapté des feux",
+                  "explication": "Basculer en feux de croisement pour ne pas éblouir ; ralentir si la portée d'éclairage diminue.",
+                  "motsCles": [
+                    "feux de route",
+                    "croisement",
+                    "ralentir"
+                  ]
+                },
+                {
+                  "id": "nuit-fatigue",
+                  "titre": "Vigilance et fatigue",
+                  "explication": "Anticiper la somnolence et faire des pauses, particulièrement au milieu de la nuit.",
+                  "motsCles": [
+                    "fatigue",
+                    "pause",
+                    "somnolence"
+                  ]
+                },
+                {
+                  "id": "nuit-vue",
+                  "titre": "Contrôle de la vue",
+                  "explication": "Consulter si la vision nocturne est moins bonne.",
+                  "motsCles": [
+                    "vue",
+                    "vision",
+                    "contrôle"
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "precautions-a-prendre",
+        "titre": "Précautions à prendre",
+        "points": [
+          {
+            "id": "avant-depart",
+            "ordre": 6,
+            "titre": "Avant le départ",
+            "cours": {
+              "resume": "Avant un trajet difficile, il faut préparer le véhicule, son matériel et le conducteur.",
+              "risques": [
+                "Panne ou éclairage insuffisant",
+                "Mauvaise adhérence des pneus",
+                "Départ malgré un manque de repos",
+                "Immobilisation imprévue sans équipement"
+              ],
+              "conseils": [
+                "Contrôler l'état et la propreté des feux, des pneus et du véhicule",
+                "Faire vérifier batterie, éclairage et circuits nécessaires avant la mauvaise saison",
+                "Prévoir le matériel de bord utile et compatible (lampe, fusibles, matériel de dépannage ou d'hiver selon le véhicule)",
+                "Partir reposé",
+                "Prévoir de l'eau, de quoi manger et des vêtements chauds en cas d'immobilisation"
+              ]
+            },
+            "entrainement": {
+              "type": "reponse-libre-auto-correction",
+              "question": "Quelles précautions prends-tu avant de partir par mauvais temps ou de nuit ?",
+              "consigne": "Pendant 7 minutes, rédige tout ce dont tu te souviens. Après le temps imparti, compare ta réponse avec les éléments attendus et coche ceux que tu as correctement expliqués.",
+              "dureeSecondes": 420,
+              "correctionVisibleApresChrono": true,
+              "criteres": [
+                {
+                  "id": "avant-vehicule",
+                  "titre": "État général du véhicule",
+                  "explication": "Vérifier l'entretien, les pneumatiques et les organes utiles.",
+                  "motsCles": [
+                    "entretien",
+                    "pneus",
+                    "véhicule"
+                  ]
+                },
+                {
+                  "id": "avant-feux",
+                  "titre": "Éclairage",
+                  "explication": "Vérifier le bon fonctionnement, l'état, la propreté et les réglages des feux.",
+                  "motsCles": [
+                    "feux",
+                    "éclairage",
+                    "réglage"
+                  ]
+                },
+                {
+                  "id": "avant-batterie",
+                  "titre": "Batterie",
+                  "explication": "Contrôler la batterie et le circuit électrique avant l'hiver.",
+                  "motsCles": [
+                    "batterie",
+                    "électrique"
+                  ]
+                },
+                {
+                  "id": "avant-lot",
+                  "titre": "Matériel de bord",
+                  "explication": "Contrôler les équipements nécessaires : lampe, matériel adapté, fusibles ou pièces compatibles.",
+                  "motsCles": [
+                    "lot de bord",
+                    "lampe",
+                    "fusible",
+                    "équipement"
+                  ]
+                },
+                {
+                  "id": "avant-repos",
+                  "titre": "Repos",
+                  "explication": "Se reposer suffisamment avant le trajet.",
+                  "motsCles": [
+                    "repos",
+                    "fatigue"
+                  ]
+                },
+                {
+                  "id": "avant-reserves",
+                  "titre": "Réserves utiles",
+                  "explication": "Prévoir de l'eau, de la nourriture et des vêtements chauds en cas de blocage.",
+                  "motsCles": [
+                    "eau",
+                    "nourriture",
+                    "vêtements chauds"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "pendant-trajet",
+            "ordre": 7,
+            "titre": "Pendant le trajet",
+            "cours": {
+              "resume": "Pendant le déplacement, le conducteur doit continuellement réévaluer vitesse, visibilité et fatigue.",
+              "risques": [
+                "Surprise en virage lorsque la portée des phares est limitée",
+                "Éblouissement",
+                "Fatigue ou assoupissement",
+                "Obstacle mal détecté en cas de mauvaise visibilité"
+              ],
+              "conseils": [
+                "Adapter allure et distance aux conditions météo et à la visibilité",
+                "Ralentir avant les virages, surtout de nuit",
+                "Employer les feux autorisés et adaptés, sans éblouir",
+                "Regarder vers l'accotement droit en cas d'éblouissement",
+                "Se guider grâce au marquage au sol sans cesser d'observer la circulation",
+                "Respecter les pauses réglementaires et en faire davantage si besoin",
+                "S'arrêter en lieu sûr en cas de fatigue ; rester vigilant entre 2 h et 5 h du matin"
+              ]
+            },
+            "entrainement": {
+              "type": "reponse-libre-auto-correction",
+              "question": "Quelles précautions adoptes-tu pendant le trajet par mauvais temps ou de nuit ?",
+              "consigne": "Pendant 7 minutes, rédige tout ce dont tu te souviens. Après le temps imparti, compare ta réponse avec les éléments attendus et coche ceux que tu as correctement expliqués.",
+              "dureeSecondes": 420,
+              "correctionVisibleApresChrono": true,
+              "criteres": [
+                {
+                  "id": "trajet-allure",
+                  "titre": "Allure adaptée",
+                  "explication": "Adapter la vitesse à la météo, à l'adhérence et à la visibilité.",
+                  "motsCles": [
+                    "allure",
+                    "vitesse",
+                    "visibilité"
+                  ]
+                },
+                {
+                  "id": "trajet-virage",
+                  "titre": "Approche des virages",
+                  "explication": "Ralentir davantage de nuit pour repérer virages et obstacles.",
+                  "motsCles": [
+                    "virage",
+                    "ralentir"
+                  ]
+                },
+                {
+                  "id": "trajet-feux",
+                  "titre": "Éclairage adapté",
+                  "explication": "Utiliser les feux appropriés sans gêner les autres usagers.",
+                  "motsCles": [
+                    "feux",
+                    "croisement",
+                    "route"
+                  ]
+                },
+                {
+                  "id": "trajet-eblouissement",
+                  "titre": "Gérer l'éblouissement",
+                  "explication": "Regarder le plus loin possible du côté droit sans fixer les phares adverses.",
+                  "motsCles": [
+                    "éblouissement",
+                    "accotement droit"
+                  ]
+                },
+                {
+                  "id": "trajet-marquage",
+                  "titre": "Marquage au sol",
+                  "explication": "S'aider du marquage pour se repérer lorsque la visibilité est réduite.",
+                  "motsCles": [
+                    "marquage",
+                    "sol"
+                  ]
+                },
+                {
+                  "id": "trajet-pauses",
+                  "titre": "Pauses et vigilance",
+                  "explication": "Faire des pauses plus souvent et s'arrêter en sécurité dès que la fatigue apparaît.",
+                  "motsCles": [
+                    "pause",
+                    "fatigue",
+                    "somnolence"
+                  ]
+                },
+                {
+                  "id": "trajet-nuit",
+                  "titre": "Créneau nocturne sensible",
+                  "explication": "Être particulièrement vigilant aux coups de fatigue entre 2 h et 5 h.",
+                  "motsCles": [
+                    "2",
+                    "5",
+                    "coup de pompe"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "informations-routieres",
+            "ordre": 8,
+            "titre": "Informations routières",
+            "cours": {
+              "resume": "Se renseigner sur les conditions de circulation aide à éviter les routes dangereuses ou fermées.",
+              "risques": [
+                "Route bloquée, gelée ou enneigée",
+                "Restrictions de circulation non anticipées",
+                "Long arrêt sur une route non praticable"
+              ],
+              "conseils": [
+                "Consulter les informations officielles disponibles sur Internet",
+                "Écouter la radio d'information routière, notamment 107,7 FM sur certaines autoroutes",
+                "Se renseigner si nécessaire auprès des services compétents (police, gendarmerie, gestionnaire routier)",
+                "Adapter le trajet en fonction des alertes et restrictions"
+              ]
+            },
+            "entrainement": {
+              "type": "reponse-libre-auto-correction",
+              "question": "Où peux-tu obtenir les informations routières et pourquoi sont-elles importantes ?",
+              "consigne": "Pendant 7 minutes, rédige tout ce dont tu te souviens. Après le temps imparti, compare ta réponse avec les éléments attendus et coche ceux que tu as correctement expliqués.",
+              "dureeSecondes": 420,
+              "correctionVisibleApresChrono": true,
+              "criteres": [
+                {
+                  "id": "infos-internet",
+                  "titre": "Internet",
+                  "explication": "Utiliser les sites et services officiels de circulation et météo.",
+                  "motsCles": [
+                    "internet",
+                    "site",
+                    "application"
+                  ]
+                },
+                {
+                  "id": "infos-radio",
+                  "titre": "Radio trafic",
+                  "explication": "Écouter les radios spécialisées ; 107,7 FM sur certaines autoroutes.",
+                  "motsCles": [
+                    "radio",
+                    "107.7",
+                    "trafic"
+                  ]
+                },
+                {
+                  "id": "infos-forces",
+                  "titre": "Services compétents",
+                  "explication": "Contacter les autorités ou services routiers si nécessaire.",
+                  "motsCles": [
+                    "police",
+                    "gendarmerie",
+                    "service routier"
+                  ]
+                },
+                {
+                  "id": "infos-itineraire",
+                  "titre": "Choisir un itinéraire sûr",
+                  "explication": "Tenir compte des restrictions, fermetures et conditions avant de prendre la route.",
+                  "motsCles": [
+                    "itinéraire",
+                    "restriction",
+                    "fermeture"
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
